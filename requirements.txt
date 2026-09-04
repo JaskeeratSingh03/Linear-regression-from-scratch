@@ -1,0 +1,3 @@
+# stdlib only — no external dependencies needed.
+# This project intentionally uses only Python's standard library so the
+# math is visible and the code runs anywhere Python 3.8+ is installed.
